@@ -1,4 +1,4 @@
-
+print la la la la from wangxun
 
 for i in range(5,11):
     print i
